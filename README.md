@@ -1,4 +1,4 @@
-# AutoGluon: AutoML At Your Fingertip
+# AutoGluon: AutoML At Your Fingertips
 
 ## Abstract
 
